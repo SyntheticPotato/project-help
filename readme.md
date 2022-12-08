@@ -1,6 +1,21 @@
 # CX/MATH 4640 Final Project
 
-## What your report should contain
+## Hybrid root finding method. 
+
+Bisection newton hybrid method. Bisection secant hybrid method. etc. How they work, rates of convergence, why they work, hat could go wrong, pros and cons of the various different methods. possible improvements. (own topic)
+
+## Soongeol Kang
+skang382
+
+
+## History
+
+## Basic Definitions
+
+## An Example
+
+## Application
+
 
 __In your own words.__
 
